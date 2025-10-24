@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Mounika-K-hub
-- 👀 I’m interested in 💻 **Web Development** | 🌐 **Passionate about modern web technologies**
+- 👀 I’m interested in 💻 **RPA UiPath Developer Role** | 🌐 **Passionate about modern technologies**
 ### Skills:
-- Frontend HTML5, CSS3, JavaScript (ES6+), React
+- UiPath Studio, Orchestrator, REFramework, Web Automation, Email Automation, EXCEL Automation, PDF Automation etc.,
 - Tools Git, GitHub, Figma, Postman
 ###Reach me: mounikak7890@gmail.com
 [LinkedIn]([https://linkedin.com/in/yourusername](https://www.linkedin.com/in/kannemadugu-mounika-57a563242/).
